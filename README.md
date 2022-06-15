@@ -1,13 +1,13 @@
 ## Chào anh em Việt Nam
 <div>
  <a href="https://github.com/le-cuong-hacker1111">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=le-cuong-hacker1111&show_icons=true&theme=nomal"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-cuong-hacker1111&theme=nomal"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=le-cuong-hacker1111&show_icons=true&theme=nomal"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-cuong-hacker1111&theme=nomal"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="le-cuong-hacker1111-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="le-cuong-hacker1111-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="le-cuong-hacker1111-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="le-cuong-hacker1111-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="le-cuong-hacker1111-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="le-cuong-hacker1111-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
   ##
